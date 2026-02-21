@@ -1,5 +1,7 @@
 # Penguin Change
 
+**[Play it here](https://frozen-future.pages.dev/)**
+
 A browser-based pixel art game built for the **Games for Change Student Challenge (2024)** under the theme *Stronger and Greener Communities*.
 
 Players witness the effects of carbon emissions on a penguin colony living on a melting iceberg. Coal power plants generate emissions that cause ice tiles to break away at the edges, shrinking the habitat and stranding penguins in the water. The goal is to understand the relationship between fossil fuel infrastructure and habitat loss.
